@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title> Stock Control</title>
+</head>
+<body>
+	<h1>STOCKS ON THE BASIS OF MARKET CAPITALIZATION</h1>
+	<figure>
+		<img src="./Image/capitalization.png"height="300"/>
+		<figcaption>Market Capitalization</figcaption>
+	</figure>
+	<ul>
+		<li><a href = "https://www.moneyworks4me.com/best-index/top-stocks/top-large-cap-companies-list/">LARGE CAP</a></li>
+		<li><a href = "https://www.moneyworks4me.com/best-index/top-stocks/top-mid-cap-companies-list/">MID CAP</a></li>
+		<li><a href = "https://www.moneyworks4me.com/best-index/top-stocks/top-small-cap-companies-list/orderby/industry/sort/asc/#">SMALL CAP</a></li>
+	</ul>
+
+</body>
+</html>
